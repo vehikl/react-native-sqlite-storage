@@ -1,4 +1,10 @@
 # Version History
+v4.1.0
+ 1. New native SQLite libraries for Android. Dropping support for armeabi.
+ 
+v4.0.0
+ 1. RN 0.60 compatibility (https://github.com/andpor/react-native-sqlite-storage/pull/361)
+ 
 v3.3.10
  1. Fix package org.pgsqlite not found error for RN 0.58.4 (https://github.com/andpor/react-native-sqlite-storage/pull/324)
  
